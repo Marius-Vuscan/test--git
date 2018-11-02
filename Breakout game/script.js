@@ -89,3 +89,4 @@ function mouseMoveHandler(e) {
 document.addEventListener("mousemove", mouseMoveHandler, false);
 
 console.log("first commit");
+console.log("second commit");
